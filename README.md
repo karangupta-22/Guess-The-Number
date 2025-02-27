@@ -1,6 +1,6 @@
 # Number Guessing Game
 # Description
-Number Guessing Game is a simple console-based game where the player attempts to guess a randomly generated number within a specified range. The game provides feedback on whether the guessed number is too high, too low, or correct.
+Number Guessing Game is a simple game where the player attempts to guess a randomly generated number within a specified range. The game provides feedback on whether the guessed number is too high, too low, or correct.
 
 # Features
 1.Randomly generated number within a set range.
